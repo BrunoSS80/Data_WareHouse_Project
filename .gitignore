@@ -1,2 +1,7 @@
 *.CSV
 *.db
+*.env
+.vscode/
+*.log
+*.bak
+*.tmp

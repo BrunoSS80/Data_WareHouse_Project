@@ -18,7 +18,7 @@ CREATE TABLE bronze_crm_cust_info(
     cst_gndr VARCHAR(50),
     cst_create_date VARCHAR(15)
 );
-
+select * from bronze_crm_cust_info limit 100; 
 DROP TABLE IF EXISTS bronze_crm_prd_info;
 CREATE TABLE bronze_crm_prd_info(
     prd_id INT,
