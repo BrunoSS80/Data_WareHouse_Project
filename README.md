@@ -141,23 +141,6 @@ Desenvolver um Data Warehouse utilizando SQLite3 para consolidar dados de vendas
 
 ---
 
-## 📂 Estrutura do Repositório
-data-warehouse-project/
-│
-├── datasets/ # Dados brutos (ERP e CRM)
-│
-├── scripts/ # Scripts SQL
-│ ├── bronze/
-│ ├── silver/
-│ ├── gold/
-│
-├── tests/ # Testes e validações
-│
-└── README.md
-
-
----
-
 ## 🧑‍💻 Autor
 
 Desenvolvido por **Bruno Severgnini da Silva**
