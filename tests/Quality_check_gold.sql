@@ -1,0 +1,1 @@
+SELECT DISTINCT gender FROM gold_dim_customer

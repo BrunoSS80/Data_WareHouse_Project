@@ -146,6 +146,7 @@ CASE
 END AS gen
 from bronze_erp_cust_az12;
 
+
 --Deletando dados existentes em: silver_erp_loc_a101
 DELETE FROM silver_erp_loc_a101;
 --Inserindo dados em: silver_erp_loc_a101
